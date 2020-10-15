@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z10FvVFwP0qTG1FCRIXalBLIphBceExz+qHEbu/as8theVnunrUBRMLqXPkWs0uq8BOL2rzcQR0Vu2cHeoXqRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niko3\\source\\repos\\lelabo\\lelabo\\lelabo.iOS\\lelabo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
