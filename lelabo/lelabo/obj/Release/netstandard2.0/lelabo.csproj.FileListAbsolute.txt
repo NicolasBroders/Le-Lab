@@ -17,3 +17,6 @@ C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\Xaml
 C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\lelabo.dll
 C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\ref\lelabo.dll
 C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\lelabo.pdb
+C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\lelabo.csprojAssemblyReference.cache
+C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\Views\Forms_3_5_Page.xaml.g.cs
+C:\Users\niko3\source\repos\lelabo\lelabo\lelabo\obj\Release\netstandard2.0\Views\WebViewPage.xaml.g.cs

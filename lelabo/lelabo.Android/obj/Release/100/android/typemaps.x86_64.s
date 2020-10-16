@@ -199,17 +199,17 @@ map_modules:
 	.zero	4
 	.quad	0
 
-	/* module_uuid: 331b484f-dfe9-4f54-90a8-a108024c20a7 */
-	.byte	0x4f, 0x48, 0x1b, 0x33, 0xe9, 0xdf, 0x54, 0x4f, 0x90, 0xa8, 0xa1, 0x08, 0x02, 0x4c, 0x20, 0xa7
+	/* module_uuid: f9fb1e4c-ddcb-4011-919a-26e2775533f2 */
+	.byte	0x4c, 0x1e, 0xfb, 0xf9, 0xcb, 0xdd, 0x11, 0x40, 0x91, 0x9a, 0x26, 0xe2, 0x77, 0x55, 0x33, 0xf2
 	/* entry_count */
-	.long	4
+	.long	2
 	/* duplicate_count */
 	.long	0
 	/* map */
 	.quad	module8_managed_to_java
 	/* duplicate_map */
 	.quad	0
-	/* assembly_name: Xamarin.AndroidX.SwipeRefreshLayout */
+	/* assembly_name: lelabo.Android */
 	.quad	.L.map_aname.8
 	/* image */
 	.quad	0
@@ -219,17 +219,17 @@ map_modules:
 	.zero	4
 	.quad	0
 
-	/* module_uuid: 6c656d62-5d0e-45ec-9dfa-55ed69a8b65c */
-	.byte	0x62, 0x6d, 0x65, 0x6c, 0x0e, 0x5d, 0xec, 0x45, 0x9d, 0xfa, 0x55, 0xed, 0x69, 0xa8, 0xb6, 0x5c
+	/* module_uuid: 331b484f-dfe9-4f54-90a8-a108024c20a7 */
+	.byte	0x4f, 0x48, 0x1b, 0x33, 0xe9, 0xdf, 0x54, 0x4f, 0x90, 0xa8, 0xa1, 0x08, 0x02, 0x4c, 0x20, 0xa7
 	/* entry_count */
-	.long	2
+	.long	4
 	/* duplicate_count */
 	.long	0
 	/* map */
 	.quad	module9_managed_to_java
 	/* duplicate_map */
 	.quad	0
-	/* assembly_name: lelabo.Android */
+	/* assembly_name: Xamarin.AndroidX.SwipeRefreshLayout */
 	.quad	.L.map_aname.9
 	/* image */
 	.quad	0
@@ -5046,7 +5046,7 @@ map_java:
 
 	/* #504 */
 	/* module_index */
-	.long	8
+	.long	9
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
@@ -5055,7 +5055,7 @@ map_java:
 
 	/* #505 */
 	/* module_index */
-	.long	8
+	.long	9
 	/* type_token_id */
 	.long	33554437
 	/* java_name */
@@ -5064,7 +5064,7 @@ map_java:
 
 	/* #506 */
 	/* module_index */
-	.long	8
+	.long	9
 	/* type_token_id */
 	.long	33554439
 	/* java_name */
@@ -6981,7 +6981,7 @@ map_java:
 
 	/* #719 */
 	/* module_index */
-	.long	9
+	.long	8
 	/* type_token_id */
 	.long	33554434
 	/* java_name */
@@ -6990,7 +6990,7 @@ map_java:
 
 	/* #720 */
 	/* module_index */
-	.long	9
+	.long	8
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
@@ -8502,7 +8502,7 @@ map_java:
 
 	/* #888 */
 	/* module_index */
-	.long	8
+	.long	9
 	/* type_token_id */
 	.long	33554440
 	/* java_name */

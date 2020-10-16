@@ -3,6 +3,10 @@
             Title="Tabs Page"
             xmlns:views="clr-namespace:lelabo.Views"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"        
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            android:TabbedPage.BarItemColor="Black"
+            android:TabbedPage.BarSelectedItemColor="White"
              x:Class="lelabo.Views.TabsPage">
 
     <TabbedPage.BarBackgroundColor>

@@ -521,7 +521,7 @@
 
 	/* 57: lelabo.dll */
 	/* uncompressed_file_size */
-	.word	23552
+	.word	29696
 	/* loaded */
 	.byte	0
 	/* data */

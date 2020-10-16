@@ -33,6 +33,9 @@ namespace lelabo
             this.Navigation.PushAsync(new ListPage());
         }
 
-        
+        private void NewsButtonClicked(object sender, EventArgs e)
+        {
+            this.Navigation.PushAsync(new Forms_3_5_Page());
+        }
     }
 }

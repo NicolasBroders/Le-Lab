@@ -520,7 +520,7 @@
 
 	/* 57: lelabo.dll */
 	/* uncompressed_file_size */
-	.long	23552
+	.long	29696
 	/* loaded */
 	.byte	0
 	/* data */
